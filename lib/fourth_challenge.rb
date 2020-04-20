@@ -20,6 +20,7 @@ def fourth_challenge
     }
 }
 
+epic_tragedy[:montague][:patriarch][:name] = "Michael Jordan"
 
 
 end
